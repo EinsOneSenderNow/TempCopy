@@ -1,2 +1,2 @@
-# TempCopy
-A temporary copy of the project that we are doing with classmates
+#Help4nieghbor
+Семестровая работа, бэкенд сайта по выставлению объявлений для различных поручений. Аналог авито только для разовой работы
